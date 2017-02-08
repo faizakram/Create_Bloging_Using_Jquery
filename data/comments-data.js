@@ -8,7 +8,7 @@ var commentsArray = [
    "pings": [],
    "creator": 6,
    "fullname": "Simon Powell",
-   "profile_picture_url": "https://app.viima.com/static/media/user_profiles/user-icon.png",
+   "profile_picture_url": "http://faizakram.com/github/user-icon.png",
    "created_by_admin": false,
    "created_by_current_user": false,
    "upvote_count": 3,
@@ -23,7 +23,7 @@ var commentsArray = [
    "pings": [],
    "creator": 5,
    "fullname": "Administrator",
-   "profile_picture_url": "https://app.viima.com/static/media/user_profiles/admin-user-icon.png",
+   "profile_picture_url": "http://faizakram.com/github/admin/admin-user-icon.png",
    "created_by_admin": true,
    "created_by_current_user": false,
    "upvote_count": 2,
@@ -38,7 +38,7 @@ var commentsArray = [
    "pings": [3],
    "creator": 1,
    "fullname": "You",
-   "profile_picture_url": "https://app.viima.com/static/media/user_profiles/user-icon.png",
+   "profile_picture_url": "http://faizakram.com/github/user-icon.png",
    "created_by_admin": false,
    "created_by_current_user": true,
    "upvote_count": 2,
@@ -53,7 +53,7 @@ var commentsArray = [
    "file_mime_type": "video/mp4",
    "creator": 4,
    "fullname": "Todd Brown",
-   "profile_picture_url": "https://app.viima.com/static/media/user_profiles/user-icon.png",
+   "profile_picture_url": "http://faizakram.com/github/user-icon.png",
    "created_by_admin": false,
    "created_by_current_user": false,
    "upvote_count": 0,
@@ -68,7 +68,7 @@ var commentsArray = [
    "pings": [],
    "creator": 3,
    "fullname": "Hank Smith",
-   "profile_picture_url": "https://app.viima.com/static/media/user_profiles/user-icon.png",
+   "profile_picture_url": "http://faizakram.com/github/user-icon.png",
    "created_by_admin": false,
    "created_by_current_user": false,
    "upvote_count": 0,
@@ -83,7 +83,7 @@ var commentsArray = [
    "pings": [],
    "creator": 2,
    "fullname": "Jack Hemsworth",
-   "profile_picture_url": "https://app.viima.com/static/media/user_profiles/user-icon.png",
+   "profile_picture_url": "http://faizakram.com/github/user-icon.png",
    "created_by_admin": false,
    "created_by_current_user": false,
    "upvote_count": 1,
@@ -98,7 +98,7 @@ var commentsArray = [
    "pings": [],
    "creator": 5,
    "fullname": "Administrator",
-   "profile_picture_url": "https://app.viima.com/static/media/user_profiles/admin-user-icon.png",
+   "profile_picture_url": "http://faizakram.com/github/admin/admin-user-icon.png",
    "created_by_admin": true,
    "created_by_current_user": false,
    "upvote_count": 0,
@@ -113,7 +113,7 @@ var commentsArray = [
    "pings": [],
    "creator": 1,
    "fullname": "You",
-   "profile_picture_url": "https://app.viima.com/static/media/user_profiles/user-icon.png",
+   "profile_picture_url": "http://faizakram.com/github/user-icon.png",
    "created_by_admin": false,
    "created_by_current_user": true,
    "upvote_count": 0,
@@ -128,7 +128,7 @@ var commentsArray = [
    "pings": [],
    "creator": 7,
    "fullname": "Bryan Connery",
-   "profile_picture_url": "https://app.viima.com/static/media/user_profiles/user-icon.png",
+   "profile_picture_url": "http://faizakram.com/github/user-icon.png",
    "created_by_admin": false,
    "created_by_current_user": false,
    "upvote_count": 0,
@@ -143,7 +143,7 @@ var commentsArray = [
    "pings": [],
    "creator": 1,
    "fullname": "You",
-   "profile_picture_url": "https://app.viima.com/static/media/user_profiles/user-icon.png",
+   "profile_picture_url": "http://faizakram.com/github/user-icon.png",
    "created_by_admin": false,
    "created_by_current_user": true,
    "upvote_count": 0,
@@ -156,42 +156,42 @@ var usersArray = [
       id: 1,
       fullname: "Current User",
       email: "current.user@viima.com",
-      profile_picture_url: "https://app.viima.com/static/media/user_profiles/user-icon.png"
+      profile_picture_url: "http://faizakram.com/github/user-icon.png"
    },
    {
       id: 2,
       fullname: "Jack Hemsworth",
       email: "jack.hemsworth@viima.com",
-      profile_picture_url: "https://app.viima.com/static/media/user_profiles/user-icon.png"
+      profile_picture_url: "http://faizakram.com/github/user-icon.png"
    },
    {
       id: 3,
       fullname: "Hank Smith",
       email: "hank.smith@viima.com",
-      profile_picture_url: "https://app.viima.com/static/media/user_profiles/user-icon.png"
+      profile_picture_url: "http://faizakram.com/github/user-icon.png"
    },
    {
       id: 4,
       fullname: "Todd Brown",
       email: "todd.brown@viima.com",
-      profile_picture_url: "https://app.viima.com/static/media/user_profiles/user-icon.png"
+      profile_picture_url: "http://faizakram.com/github/user-icon.png"
    },
    {
       id: 5,
       fullname: "Administrator",
       email: "administrator@viima.com",
-      profile_picture_url: "https://app.viima.com/static/media/user_profiles/user-icon.png"
+      profile_picture_url: "http://faizakram.com/github/user-icon.png"
    },
    {
       id: 6,
       fullname: "Simon Powell",
       email: "simon.powell@viima.com",
-      profile_picture_url: "https://app.viima.com/static/media/user_profiles/user-icon.png"
+      profile_picture_url: "http://faizakram.com/github/user-icon.png"
    },
    {
       id: 7,
       fullname: "Bryan Connery",
       email: "bryan.connery@viima.com",
-      profile_picture_url: "https://app.viima.com/static/media/user_profiles/user-icon.png"
+      profile_picture_url: "http://faizakram.com/github/user-icon.png"
    }
 ]

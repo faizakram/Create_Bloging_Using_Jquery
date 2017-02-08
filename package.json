@@ -3,12 +3,12 @@
   "title": "jquery-comments",
   "version": "1.2.0",
   "author": {
-    "name": "Joona Tykkylainen"
+    "name": "MD Faiz Akram"
   },
   "description": "jQuery plugin for implementing an out-of-the-box commenting solution to any web application with an existing backend",
   "license": "MIT",
   "main": "js/jquery-comments.js",
-  "homepage": "https://www.viima.com/",
+  "homepage": "https://www.faizakram.com/",
   "keywords": [
     "jquery",
     "javascript",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Viima/jquery-comments.git"
+    "url": "https://github.com/faizakram/Create_Bloging_Using_Jquery.git"
   },
   "dependencies": {
     "jquery": ">=1.9.0"

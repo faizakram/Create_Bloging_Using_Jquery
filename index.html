@@ -24,7 +24,7 @@
 				margin: 0px;
 				font-size: 14px;
 				font-family: "Arial", Georgia, Serif;
-			}
+				}
 		</style>
 
 		<!-- Init jquery-comments -->
@@ -38,7 +38,7 @@
 					return data;
 				}
 				$('#comments-container').comments({
-					profilePictureURL: 'https://viima-app.s3.amazonaws.com/media/user_profiles/user-icon.png',
+					profilePictureURL: 'http://faizakram.com/github/user-icon.png',
 					currentUserId: 1,
 					roundProfilePictures: true,
 					textareaRows: 1,
@@ -56,7 +56,6 @@
 						}, 500);
 					},
 					postComment: function(data, success, error) {
-						alert("hello"+ data.text);
 						setTimeout(function() {
 							success(saveComment(data));
 						}, 500);
