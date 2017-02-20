@@ -23,7 +23,7 @@ Features
 
 Demo
 ----
-http://viima.github.io/jquery-comments/demo/
+http://demo.faizakram/jquery-comments/demo/
 
 Quick start
 -----------
@@ -71,11 +71,11 @@ Dependencies
 
 Documentation
 -------------
-http://viima.github.io/jquery-comments
+https://github.com/faizakram/Create_Bloging_Using_Jquery/
 
 Maintainers
 -----------
-- [Joona Tykkyläinen](https://www.linkedin.com/in/joonatykkylainen), Viima Solutions Oy
+- [Faiz Akarm](https://www.linkedin.com/pub/faiz-akram/80/b6/742), Viima Solutions Oy
 
 Browser support
 ---------------
@@ -83,4 +83,4 @@ IE9+ and all modern browsers
 
 Copyright and license
 ---------------------
-Code and documentation copyright 2017 [Viima Solutions Oy](https://www.viima.com/). Code released under [the MIT license](https://github.com/Viima/jquery-comments/blob/master/LICENSE).
+Code and documentation copyright 2017 [Solutions by](https://www.faizakram.com/). Code released under [the MIT license](https://github.com/faizakram/Create_Bloging_Using_Jquery/).
